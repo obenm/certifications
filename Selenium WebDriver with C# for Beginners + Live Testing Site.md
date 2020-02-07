@@ -1,7 +1,10 @@
-# Selenium WebDriver with C# for Beginners + Live Testing Site
+# Selenium WebDriver with C# for Beginners
 
 ### Course Certificate
 ![](https://udemy-certificate.s3.amazonaws.com/image/UC-NQ2DKUVK.jpg?l=null)
+
+### Certificate Link
+> https://www.udemy.com/certificate/UC-NQ2DKUVK/
 
 #### Course Description
 > Selenium is the most popular tool to test websites! Join me and thousands of students to learn Selenium Webdriver!
