@@ -1,4 +1,4 @@
-# Certifications
+# Courses and Certifications
 
 ### Index
 
