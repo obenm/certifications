@@ -1,4 +1,4 @@
-# CBasics of Object Oriented Programming with C#
+# Basics of Object Oriented Programming with C#
 
 ### Course Certificate
 ![](https://udemy-certificate.s3.amazonaws.com/image/UC-4V0T74Z0.jpg?l=null)
